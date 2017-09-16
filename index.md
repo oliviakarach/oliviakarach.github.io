@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/oliviakarach/oliviakarach.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a prelaw student at the University of Pittsburgh spending my college experience exploring the intersection of economics and philosophy. 
 
 ### Markdown
 
