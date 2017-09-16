@@ -1,6 +1,7 @@
 ## Welcome to my page!
 
-I am a prelaw student at the University of Pittsburgh spending my college experience exploring the intersection of economics and philosophy. 
+I am a full time student at the University of Pittsburgh spending my college experience exploring the intersection of economics and philosophy. I have a particular passion for how these areas apply to health economics and public policy. I was able to pursue my policy interest through my first research experience documenting women's rights legislation around the globe. 
+My academic load is counterbalanced by two part time jobs with Kaplan and the University tutoring center. For the latter position, I am a Nationally Certified tutor with specializations in micro and macroeconomic theory. 
 
 ### Markdown
 
@@ -25,11 +26,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oliviakarach/oliviakarach.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
